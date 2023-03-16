@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaView, StyleSheet, FlatList} from 'react-native';
-import MusicInfo from './MusicInfoScreen';
+import MusicInfo from './screens/MusicInfoScreen';
 
 interface MusicData {
   id: number;
